@@ -485,7 +485,7 @@ This frequency divider board can be used in various applications:
 ### Datasheets
 - [74LS74 Datasheet](https://www.ti.com/lit/ds/symlink/sn74ls74a.pdf) - Texas Instruments
 - [74LS90 Datasheet](https://www.ti.com/lit/ds/symlink/sn74ls90.pdf) - Texas Instruments
-- SG-8002JC Crystal Oscillator Datasheet
+- [SG-8002JC Crystal Oscillator Datasheet](https://www.epsondevice.com/crystal/en/products/spxo/sg-8002dc.html) - Epson
 
 ### Design Resources
 - [KiCad EDA](https://www.kicad.org/) - Open source electronics design automation suite
@@ -505,7 +505,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 Yareen Hamdan
+Copyright (c) 2025 yareen hamdan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -522,7 +522,7 @@ copies or substantial portions of the Software.
 
 ## 👤 Author
 
-**Yareen Hamdan**
+**yareen hamdan**
 
 - Project developed as part of the Introduction to PCB Design course
 - 2025
